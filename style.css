@@ -1,0 +1,45 @@
+
+body{
+	background-color: skyblue ;
+	/**/
+
+}
+.card{
+	/*margin: 0 auto;*/
+	background-color: pink;
+	text-align: center;
+	border:2px solid;
+	border-radius: 10px;
+	box-shadow: 5px 5px 4px 4px;
+
+}
+ul{
+	display: block;
+}
+li{
+	display: flex;
+	float: right;
+	padding: 10px;
+	font-size: 10px;
+
+}
+.card:hover{
+	color:#54817B;
+}
+.row{
+	display: flex;
+	background-color: grey;
+	margin:40px;
+	border-radius: 20px;
+}
+.column{
+	padding:40px;
+	width:33.33%;
+	
+}
+a{
+	text-decoration: none;
+}
+/*img{
+	align-self: center;
+}*/
